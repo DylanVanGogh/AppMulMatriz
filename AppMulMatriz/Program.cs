@@ -24,6 +24,7 @@ namespace AppMulMatriz
             inicializar(matriz);
 
             int[][][] m1 = new int[3][][];//TAREA MULTIPLICAR MATRIZ
+            inicializar(matriz);
             Console.ReadKey();
             
         }
